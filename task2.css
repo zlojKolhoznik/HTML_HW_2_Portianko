@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #f6f6f6;
+}
+p{
+    font-size: 20px;
+    margin: 15px 15px 15px 5px;
+}
+.card{
+    display: inline;
+    background-color: #e0e0e0;
+    font-size: 30px;
+    padding: 5px;
+    margin: 5px;
+}
+.red{
+    color: #dd0000;
+}
+.black{
+    color: black;
+}
+#main-div{
+    border: 1px solid navy;
+    margin: 5px;
+    padding: 15px;
+    height: auto;
+    width: 20%;
+}
